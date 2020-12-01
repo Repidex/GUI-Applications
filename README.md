@@ -12,3 +12,6 @@ Project 3:-https://github.com/Repidex/GUI-Applications/tree/master/Restorant%20B
 
 # 4.Tip Calculator
 Project 4:-https://github.com/Repidex/GUI-Applications/tree/master/Tip%20Calculator
+
+# 5.Windows Calculator
+project 5:-https://github.com/Repidex/GUI-Applications/tree/master/Windows%20Calculator
